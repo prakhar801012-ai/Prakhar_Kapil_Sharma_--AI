@@ -1,10 +1,3 @@
-# ✅ Updated SmartPPE: Full-Person PPE Compliance Detection (Colab)
-# - Detects person only if a FULL PPE kit is worn.r
-# - Green = FULL PPE
-# - Yellow = PARTIALLY PPE
-# - Red = NO PPE
-# - All PPE items included: helmet, vest, mask, goggles, gloves, boots, coverall
-
 !pip install ultralytics pillow matplotlib opencv-python
 
 from ultralytics import YOLO
