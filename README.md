@@ -345,9 +345,3 @@ Metrics used for industrial deployment:
 * Mining Operations
 * Warehouses
 * Smart Factories
-
----
-
-# 👨‍💻 Author
-
-Developed as an AI-powered Industrial Safety Compliance Detection System using YOLOv8 and Computer Vision.
